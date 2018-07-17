@@ -1,5 +1,4 @@
-# NGINX-based Media Streaming Server
-## nginx-rtmp-module
+# NGINX 1.15.1 + RTMP Streaming Server
 
 
 ### Project blog
