@@ -37,10 +37,7 @@
   ffmpeg, avconv, rtmpdump, flvstreamer
   and many more
 
-* Statistics in XML/XSL in machine- & human-
-  readable form
-
-* Linux/FreeBSD/MacOS/Windows
+* Linux/FreeBSD/MacOS
 
 ### Build
 
