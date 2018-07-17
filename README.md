@@ -45,11 +45,9 @@
 
 ### Build
 
-    wget http://nginx.org/download/nginx-1.15.1.tar.gz
-    git clone ....
-    tar xvzf nginx-1.15.1.tar.gz
-    cd nginx-1.15.1
-    ./configure --add-module=../nginx-rtmp-module
+    git clone https://github.com/seoro/nginx-1.15.1-rtmp-full.git
+    cd nginx-1.15.1-rtmp-full
+    ./configure --add-module=nginx-rtmp-module
     make
     make install
 
