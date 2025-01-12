@@ -3,7 +3,7 @@
 
 ### Project blog
 
-  https://linuxpedia.co.ro
+  https://linuxpedia.ro
 
 ### Features
 
